@@ -1,0 +1,4 @@
+Activity 3:
+In this file, Object Oriented Programming is used in order to perform mathematical operations. And I used Match case to list the menu and perform the opeartion according to the user's choice.
+Inside the class Operations, I defined 4 methods: Sum,Minus,Multiply and Factorial. Factorial method requires only one user input so that it is asked to enter a number to do factorial. Rest of the methods requires two values so that I made a function UserInput to ask for the two input values: a and b, Which removes the duplication.
+Funcswitch is a Match Case function to list the menu and ask user to choose an option so that, they can perform the operations.
