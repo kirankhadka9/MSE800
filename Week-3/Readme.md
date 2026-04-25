@@ -1,1 +1,3 @@
 This is the ER diagram for student and subject entities. This Diagram represents a student–subject management system where the main entities are Student and Subjects, connected through the relationship Enrolls. The Student entity includes attributes such as roll_number (primary key), student name, location, and age. The Subjects entity contains subject_id (primary key), subject name, and teacher name. The Enrolls relationship is many-to-many relationship between Student and Subjects. This relationship also includes attributes like enrollment_id,semester , student_id(Foreign Key), subject_id(Foreign Key).
+
+PS: I added an attribute named "Location" to the Relationship Enrolls.
